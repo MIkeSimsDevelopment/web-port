@@ -1,0 +1,65 @@
+header {
+ font-size:30px;
+  text-align: center;
+  padding: 0px 0px 00px 0px;
+}
+
+h2,h3 {
+  color: #121111;
+  font-size: 22px;
+}
+
+
+
+  
+  .align{
+    text-align: center;
+  }
+/* add background*/
+
+body {
+background-image: url("image/background.jpeg")
+}
+
+ /* The font size and text alignment */
+p,ul,ol{
+  font-size: 22px;
+  text-align: left;
+}
+
+
+
+/*add and size picture*/ 
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius:50%;
+  height: 200px;
+}
+
+
+
+  /* unvisited link */
+a:link {
+  color: #090844;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: #c50d0d;
+}
+
+
+
