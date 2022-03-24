@@ -2,14 +2,16 @@ header {
  font-size:30px;
   text-align: center;
   padding: 0px 0px 00px 0px;
+ background-color: black;
 }
 
 h2,h3 {
   color: #121111;
   font-size: 22px;
+
 }
 
-
+ 
 
   
   .align{
